@@ -1,0 +1,27 @@
+<html>
+    <head>
+      <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+      <script src="./Rotation.js"></script>
+    </head>
+    <body>
+      <a-scene background="color:yellow">
+        <a-assets>
+          <a-asset-item id="ocean" src="./ocean/scene.gltf">
+  
+          </a-asset-item>
+  
+          <a-asset-item id="scuba" src="./scuba"></a-asset-item>
+
+          <a-asset-item id="turtle" src="./turtle/scene.gltf"></a-asset-item>
+
+          <a-asset-item id="fish" src="./fish/scene.gltf"></a-asset-item>
+        </a-assets>
+  
+        <a-entity id="#ocean_1" gltf-model="#ocean" position="0 0 0" animation="property:position; to:0 0 1000 ; easing:linear ; loop:true ; dur:1000000" ocean-rotation-reader ></a-entity>
+        
+        <a-entity id="#scuba_1" gltf-model="#scuba" position="0 0 15" rotation="0 90 0" scale="0.5 0.5 0.5"scuba-rotation-reader ></a-entity>
+        <a-entity></a-entity>
+      </a-scene>
+    </body>
+  </html>
+  

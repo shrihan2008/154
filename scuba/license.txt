@@ -1,0 +1,11 @@
+Model Information:
+* title:	Character creation - Scuba
+* source:	https://sketchfab.com/3d-models/character-creation-scuba-560bef2a132542edad28b26faf3ec423
+* author:	Kay Nine (https://sketchfab.com/KayNine)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Character creation - Scuba" (https://sketchfab.com/3d-models/character-creation-scuba-560bef2a132542edad28b26faf3ec423) by Kay Nine (https://sketchfab.com/KayNine) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

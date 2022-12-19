@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon Turtle
+* source:	https://sketchfab.com/3d-models/cartoon-turtle-ddd382fba03b4732968dc43256a69201
+* author:	Animium 3d model (https://sketchfab.com/pelister)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon Turtle" (https://sketchfab.com/3d-models/cartoon-turtle-ddd382fba03b4732968dc43256a69201) by Animium 3d model (https://sketchfab.com/pelister) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
